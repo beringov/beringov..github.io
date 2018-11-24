@@ -15,7 +15,7 @@ name                     : "Юрий Берингов"
 description              : "Профессиональный видеомонтаж, 2D анимация, очистка аудиозаписей интервью/вебинаров/влогов от фонового шума, ."
 url                      : "https://beringov.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "beringov/beringov.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.jpg"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
