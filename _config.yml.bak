@@ -5,18 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "ru-RU"
+title                    : "Профессиональный видеомонтаж и аудиомонтаж Юрия Берингова"
+title_separator          : "|"
+name                     : "Юрий Берингов"
+description              : "Профессиональный видеомонтаж, 2D анимация, очистка аудиозаписей интервью/вебинаров/влогов от фонового шума, ."
+url                      : "https://beringov.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "beringov/beringov.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/500x300.jpg"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Юрий Берингов"
+  avatar           : "/assets/images/yu.jpg"
+  bio              : "Монтирую видео, делаю 2D анимации, чищу аудиозаписи от шума. Качественно и с душой."
+  location         : "Россия"
+  email            : "site@beringov.pro"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -253,3 +253,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    share: true
