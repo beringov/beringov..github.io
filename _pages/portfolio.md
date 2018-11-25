@@ -2,10 +2,6 @@
 title: "Портфолио"
 permalink: /portfolio/
 header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
-
 gallery:
   - url: /images/front_header.jpg
     image_path: /images/front_header.jpg
@@ -18,8 +14,15 @@ gallery:
   - url: /images/front_header.jpg
     image_path: /images/front_header.jpg
     alt: "Картинка 3"
+    title: "Описание картинки 3"
+  - url: /images/front_header.jpg
+    image_path: /images/front_header.jpg
+    alt: "Картинка 3"
     title: "Описание картинки 3"    
-
+  - url: /images/front_header.jpg
+    image_path: /images/front_header.jpg
+    alt: "Картинка 3"
+    title: "Описание картинки 3"
 ---
 Примеры видеомонтажа для социальных сетей, очистки аудио от шума, создания анимаций, монтажа аудиоподкастов, создания видеороликов для сайтов.
 
