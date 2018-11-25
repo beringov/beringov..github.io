@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Портфолио"
+    url: /portfolio/
   - title: "Обо мне"
     url: /about/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
