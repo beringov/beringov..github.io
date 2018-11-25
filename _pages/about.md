@@ -2,7 +2,7 @@
 title: "Обо мне"
 permalink: /about/
 header:
-  image: "/images/500x300.jpg"
+  image: "/images/about_header.jpg"
 ---
 Привет! Меня зовут Юрий Берингов, я профессиональный аудио и видеомонтажер.
 
