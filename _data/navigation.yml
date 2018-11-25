@@ -2,6 +2,10 @@
 main:
   - title: "Портфолио"
     url: /portfolio/
+  - title: "Клиенты"
+    url: /clients/
+  - title: "Отзывы"
+    url: /feedback/
   - title: "Обо мне"
     url: /about/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
