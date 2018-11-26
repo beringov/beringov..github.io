@@ -40,7 +40,7 @@ feature_row:
   title: "Placeholder 3"
   excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-Примеры видеомонтажа для социальных сетей, очистки аудио от шума, создания анимаций, монтажа аудиоподкастов, создания видеороликов для сайтов.
+Примеры видеомонтажа, создания видеороликов для социальных сетей, очистки аудиозаписей интервью/вебинаров/лекций от шума, создания анимаций, монтажа аудиоподкастов, конвертирования медиафайлов в различные форматы.
 
 {% include video id="2a7LgZy8Xg8" provider="youtube" %} {% include video id="6ouBtLvnhJs" provider="youtube" %} {% include video id="loa6zbsMv0M" provider="youtube" %} {% include video id="smI8qU7XKoI" provider="youtube" %} {% include video id="lbdcTFI8vCY" provider="youtube" %} {% include video id="10KG-qs_bQc" provider="youtube" %}
 
