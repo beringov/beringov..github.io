@@ -25,9 +25,8 @@ gallery:
     title: "Описание картинки 3"
 
 feature_row:
-- video_id: "XsxDH4HcOWA"
-  video_provider: "youtube"
-  alt: "placeholder image 1"
+- image_path: /images/front_header.jpg
+    alt: "placeholder image 1"
   title: "Placeholder 1"
   excerpt: "This is some sample content that goes here with **Markdown** formatting."
 - image_path: /images/front_header.jpg
