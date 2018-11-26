@@ -40,6 +40,9 @@ feature_row:
 - image_path: /images/front_header.jpg
   title: "Placeholder 3"
   excerpt: "This is some sample content that goes here with **Markdown** formatting."
+- image_path: /images/front_header.jpg
+  title: "Placeholder 4"
+  excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
 Примеры видеомонтажа для социальных сетей, очистки аудио от шума, создания анимаций, монтажа аудиоподкастов, создания видеороликов для сайтов.
