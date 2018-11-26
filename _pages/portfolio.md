@@ -44,6 +44,9 @@ feature_row:
 ---
 Примеры видеомонтажа для социальных сетей, очистки аудио от шума, создания анимаций, монтажа аудиоподкастов, создания видеороликов для сайтов.
 
+{% include feature_row %}
+
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include video id="XsxDH4HcOWA" provider="youtube" %} {% include video id="XsxDH4HcOWA" provider="youtube" %} {% include video id="XsxDH4HcOWA" provider="youtube" %} {% include video id="XsxDH4HcOWA" provider="youtube" %} {% include video id="XsxDH4HcOWA" provider="youtube" %}
